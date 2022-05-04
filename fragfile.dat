@@ -552,6 +552,9 @@
 #DEFINE FLAG_ALERT	X_DROPS_FLAG	" τοσσεδ the ÒΕΔ flag!"     // tossed the RED flag!
 #DEFINE FLAG_ALERT	X_DROPS_FLAG	" τοσσεδ the ΒΜΥΕ flag!" // tossed the BLUE flag!
 
+#DEFINE FLAG_ALERT	X_DROPS_FLAG	" μοστ the ÒΕΔ flag!"     // lost the RED flag!
+#DEFINE FLAG_ALERT	X_DROPS_FLAG	" μοστ the ΒΜΥΕ flag!"    // lost the BLUE flag!
+
 #DEFINE FLAG_ALERT	X_CAPTURES_FLAG	" γαπτυςεδ the ÒΕΔ flag!"     // captured the RED flag!
 #DEFINE FLAG_ALERT	X_CAPTURES_FLAG	" γαπτυςεδ the ΒΜΥΕ flag!" // captured the BLUE flag!
 
